@@ -1,0 +1,11 @@
+httpx
+sqlalchemy
+psycopg2-binary
+pandas
+pandera
+polars
+pydantic
+fastapi
+uvicorn
+pytest
+email-validator>=2.0

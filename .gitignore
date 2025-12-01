@@ -1,0 +1,11 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.vscode/
+airflow_pgdata/
+postgres-data/
+logs/
+plugins/
+.env
+airflow_pgdata_backup*/
